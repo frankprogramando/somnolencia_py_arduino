@@ -1,10 +1,10 @@
-# 😴 Detección de Somnolencia con Python y Arduino
+#  Detección de Somnolencia con Python y Arduino
 
 Este proyecto tiene como objetivo detectar señales de somnolencia en tiempo real mediante visión por computadora utilizando **MediaPipe** y **OpenCV**, y generar una alerta física mediante Arduino cuando se detecte riesgo.
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - Detección facial en tiempo real con **MediaPipe**
 - Cálculo del EAR (Eye Aspect Ratio) para detectar parpadeo prolongado
@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo detectar señales de somnolencia en tiempo rea
 
 ---
 
-## 🧠 Tecnologías Usadas
+##  Tecnologías Usadas
 
 - Python 3.x
 - OpenCV
@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo detectar señales de somnolencia en tiempo rea
 
 ---
 
-## 🖥️ Requisitos
+##  Requisitos
 
 Instala las dependencias ejecutando:
 
