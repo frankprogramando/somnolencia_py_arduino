@@ -20,10 +20,10 @@ conexion_arduino.py # Comunicación serie con Arduino
 malla_facial.py # Detección de puntos clave del rostro
 analisis_facial.py # Lógica para detectar somnolencia
 captura.py # Captura y procesamiento de video
-├── main.py # Archivo principal
-├── testCAM1.py / testCAM2.py # Pruebas de cámara adicional para optimización a futuro
-├── image.png # Imagen de referencia
-└── pruebasomnolencia_arduino/ # Código del Arduino
+main.py # Archivo principal
+testCAM1.py / testCAM2.py # Pruebas de cámara adicional para optimización a futuro
+image.png # Imagen de referencia
+pruebasomnolencia_arduino/ # Código del Arduino
 
 ---
 
