@@ -15,11 +15,11 @@ Este proyecto combina **Visión por Computadora con Python** y **hardware Arduin
 
 ## 📁 Estructura del Proyecto
 somnolencia_py_arduino/
-│
-├── conexion_arduino.py # Comunicación serie con Arduino
-├── malla_facial.py # Detección de puntos clave del rostro
-├── analisis_facial.py # Lógica para detectar somnolencia
-├── captura.py # Captura y procesamiento de video
+
+conexion_arduino.py # Comunicación serie con Arduino
+malla_facial.py # Detección de puntos clave del rostro
+analisis_facial.py # Lógica para detectar somnolencia
+captura.py # Captura y procesamiento de video
 ├── main.py # Archivo principal
 ├── testCAM1.py / testCAM2.py # Pruebas de cámara adicional para optimización a futuro
 ├── image.png # Imagen de referencia
@@ -38,17 +38,17 @@ somnolencia_py_arduino/
 
 ---
 
-##🤖 Código Arduino
+## 🤖 Código Arduino
 En la carpeta pruebasomnolencia_arduino/ encontrarás el script para cargar al Arduino que activa la alarma al recibir la señal desde Python.
 
 ---
 
-##📷 Recomendación
+## 📷 Recomendación
 Para una mejor detección, utiliza una cámara externa HD y buena iluminación.
 
 ---
 
-##✨ Autor
+## ✨ Autor
 Frank - @frankprogramando
 
 ---
